@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Desktop\Weka.NET\Weka.NET\obj\x86\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Weka.NET\Weka.NET\bin\Release\Weka.NET.exe
+\\vmware-host\Shared Folders\Desktop\Weka.NET\Weka.NET\bin\Release\Weka.NET.pdb
+\\vmware-host\Shared Folders\Desktop\Weka.NET\Weka.NET\obj\x86\Release\Weka.NET.exe
+\\vmware-host\Shared Folders\Desktop\Weka.NET\Weka.NET\obj\x86\Release\Weka.NET.pdb
